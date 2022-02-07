@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkitSingh2498
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Software Development
 
 <!---
 AnkitSingh2498/AnkitSingh2498 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
