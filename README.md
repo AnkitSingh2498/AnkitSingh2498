@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AnkitSingh2498
+- ⭐ 5 Star HackeRank Problem Solving
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Software Development
 
